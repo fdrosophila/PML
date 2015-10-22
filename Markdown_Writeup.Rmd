@@ -1,6 +1,5 @@
 ---
-title: "Practical Machine Learning Course Project: Writeup"
-output: html_document
+# Practical Machine Learning Course Project: Writeup
 ---
 
 ## Assignment requirement
